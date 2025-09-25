@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Rohan  
 
 🚀 Passionate about **Robotics, Autonomous Systems, and Software Development**  
-💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web Development**  
-📚 Mechanical Engineering Student (3rd Year) | Aspiring GSoC 2026 Contributor  
+💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web/App Dev | Machine Learning | Deep Learning **  
+📚 Mechanical Engineering Student (4th Year) | Open Source Contributor  
 
 ---
 
