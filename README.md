@@ -42,10 +42,11 @@
 ---
 
 ## 🤝 Let's Connect!  
-- 📧 Email: your.email@example.com  
+- 📧 Email: rohankumar.6143@gmail.com  
 - 💼 [LinkedIn](www.linkedin.com/in/rohankumar4510)  
 - 📝 [Blogs](https://your-portfolio-link.com)  
 
 ---
 
-⭐️ *“Code, Build, Iterate — that’s how I grow.”*  
+⭐️ *“I believe every problem has a solution. With persistence and continuous learning, we can always find a way forward while expanding our knowledge base.”*
+
