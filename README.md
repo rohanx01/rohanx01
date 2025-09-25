@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Rohan  
 
-<!--
-**rohanx01/rohanx01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Passionate about **Robotics, Autonomous Systems, and Software Development**  
+💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web Development**  
+📚 Mechanical Engineering Student (3rd Year) | Aspiring GSoC 2026 Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me  
+- 🎓 Pursuing **Mechanical Engineering**  
+- 🤖 Building projects in **SLAM, Autonomous Navigation, AI, and Control Systems**  
+- 💡 Interested in **AI-powered utilities, Microservices, and Open Source contributions**  
+- 🏋️ Fitness enthusiast (Hypertrophy-focused training 💪)  
+- 🌱 Currently learning: **Web Development & Open Source Practices**  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages**  
+- C++, Python, JavaScript  
+
+**Frameworks & Tools**  
+- ROS2, FastAPI, MongoDB, Docker, Git, Kubernetes (learning), MATLAB, Blender  
+
+**Other Interests**  
+- 3D Printing, Simulation, AI in Robotics, Embedded Systems  
+
+---
+
+## 📂 Featured Projects  
+- 🔷 **[EKF-SLAM on Scaled Vehicle](https://github.com/your-repo)** – Optimized EKF-SLAM for autonomous navigation  
+- 🔷 **[3D Dendrite Growth Simulation](https://github.com/your-repo)** – Microscopic tracking and visualization of dendrite tip growth  
+- 🔷 **[Microservices E-commerce System](https://github.com/your-repo)** – Auth, Catalog, and Order service with JWT and Docker Compose  
+- 🔷 **[AI Freshness Detector](https://github.com/your-repo)** – ML-based shelf-life prediction for fruits & vegetables  
+
+---
+
+## 📊 GitHub Stats  
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+
+---
+
+## 🤝 Let's Connect!  
+- 📧 Email: your.email@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 📝 [Portfolio / Blog](https://your-portfolio-link.com)  
+
+---
+
+⭐️ *“Code, Build, Iterate — that’s how I grow.”*  
