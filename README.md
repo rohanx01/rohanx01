@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Rohan  
 
 🚀 Passionate about **Robotics, Autonomous Systems, and Software Development**  
-💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web/App Dev | Machine Learning | Deep Learning **  
+💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web/App Dev | Machine Learning | Deep Learning**  
 📚 Mechanical Engineering Student (4th Year) | Open Source Contributor  
 
 ---
@@ -9,15 +9,15 @@
 ## 🔥 About Me  
 - 🎓 Pursuing **Mechanical Engineering**  
 - 🤖 Building projects in **SLAM, Autonomous Navigation, AI, and Control Systems**  
-- 💡 Interested in **AI-powered utilities, Microservices, and Open Source contributions**  
-- 🏋️ Fitness enthusiast (Hypertrophy-focused training 💪)  
+- 💡 Interested in **AI-powered utilities, DevOps, Cloud Technologies, and Open Source Software Development**  
+- 🏋️ Fitness enthusiast 💪  
 - 🌱 Currently learning: **Web Development & Open Source Practices**  
 
 ---
 
 ## 🛠️ Tech Stack  
 **Languages**  
-- C++, Python, JavaScript  
+- C++, Python, Javascript, Go  
 
 **Frameworks & Tools**  
 - ROS2, FastAPI, MongoDB, Docker, Git, Kubernetes (learning), MATLAB, Blender  
@@ -36,15 +36,15 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanx01&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanx01&layout=compact&theme=radical)  
 
 ---
 
 ## 🤝 Let's Connect!  
 - 📧 Email: your.email@example.com  
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
-- 📝 [Portfolio / Blog](https://your-portfolio-link.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/rohankumar4510)  
+- 📝 [Blogs](https://your-portfolio-link.com)  
 
 ---
 
