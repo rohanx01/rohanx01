@@ -43,7 +43,7 @@
 
 ## 🤝 Let's Connect!  
 - 📧 Email: rohankumar.6143@gmail.com  
-- 💼 [LinkedIn](www.linkedin.com/in/rohankumar4510)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/rohankumar4510)   
 - 📝 [Blogs](https://your-portfolio-link.com)  
 
 ---
