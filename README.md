@@ -8,7 +8,6 @@
 
 ## 🔥 About Me  
 - 🎓 Pursuing **Mechanical Engineering**  
-- 🤖 Building projects in **SLAM, Autonomous Navigation, AI, and Control Systems**  
 - 💡 Interested in **AI-powered utilities, DevOps, Cloud Technologies, and Open Source Software Development**  
 - 🏋️ Fitness enthusiast 💪  
 - 🌱 Currently learning: **Web Development & Open Source Practices**  
