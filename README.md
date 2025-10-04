@@ -35,8 +35,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![Rohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanx01&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanx01&layout=compact&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanx01&layout=compact&theme=radical) 
+[![GitHub Streak](https://streak-stats.demolab.com?user=rohanx01&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
