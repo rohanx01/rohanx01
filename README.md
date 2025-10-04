@@ -1,16 +1,8 @@
-# Hi there 👋, I'm Rohan  
-
-🚀 Passionate about **Robotics, Autonomous Systems, and Software Development**  
-💻 Currently diving deep into **C++ | Python | ROS2 | FastAPI | Web/App Dev | Machine Learning | Deep Learning**  
-📚 Mechanical Engineering Student (4th Year) 
-
----
-
 ## 🔥 About Me  
 - 🎓 Pursuing **Mechanical Engineering**  
 - 💡 Interested in **AI-powered utilities, DevOps, Cloud Technologies, and Open Source Software Development**  
 - 🏋️ Fitness enthusiast 💪  
-- 🌱 Currently learning: **Web Development & Open Source Practices**  
+- 🌱 Currently learning: **Generative AI & Open Source Practices**  
 
 ---
 
@@ -41,7 +33,7 @@
 ---
 
 ## 🤝 Let's Connect!  
-- 📧 Email: rohankumar.6143@gmail.com  
+- 📧 [Email](rohankumar.6143@gmail.com) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/rohankumar4510)   
 - 📝 [Blogs](https://your-portfolio-link.com)  
 
