@@ -1,6 +1,6 @@
 ## 🔥 About Me  
 - 🎓 Pursuing **Mechanical Engineering**  
-- 💡 Interested in **AI-powered utilities, DevOps, Cloud Technologies, and Open Source Software Development**  
+- 💡 Interested in **AI-powered utilities, Web Dev, DevOps, Cloud Technologies, and Open Source Software Development**  
 - 🏋️ Fitness enthusiast 💪  
 - 🌱 Currently learning: **Generative AI & Open Source Practices**  
 
@@ -15,14 +15,6 @@
 
 **Other Interests**  
 - 3D Printing, Simulation, AI in Robotics, Embedded Systems  
-
----
-
-## 📂 Featured Projects  
-- 🔷 **[EKF-SLAM on Scaled Vehicle](https://github.com/your-repo)** – Optimized EKF-SLAM for autonomous navigation  
-- 🔷 **[3D Dendrite Growth Simulation](https://github.com/your-repo)** – Microscopic tracking and visualization of dendrite tip growth  
-- 🔷 **[Microservices Health Monitoring System](https://github.com/rohanx01/Application-Health-Monitoring)** – Monitoring tool with anamoly detection and root cause analysis using Gen AI  
-- 🔷 **[AI Freshness Detector](https://github.com/your-repo)** – ML-based shelf-life prediction for fruits & vegetables  
 
 ---
 
