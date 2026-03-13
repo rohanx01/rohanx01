@@ -1,6 +1,6 @@
 ## 🔥 About Me  
 - 🎓 Pursuing **Mechanical Engineering**  
-- 💡 Interested in **AI-powered utilities, Web Dev, DevOps, Cloud Technologies, and Open Source Software Development**  
+- 💡 Interested in **Robotics, AI-powered utilities, Web Dev, DevOps, Cloud Technologies, and Open Source Software Development**  
 - 🏋️ Fitness enthusiast 💪  
 - 🌱 Currently learning: **Generative AI & Open Source Practices**  
 
