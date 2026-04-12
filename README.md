@@ -1,8 +1,7 @@
-## 🔥 About Me  
-- 🎓 Pursuing **Mechanical Engineering**  
-- 💡 Interested in **Robotics, AI-powered utilities, Web Dev, DevOps, Cloud Technologies, and Open Source Software Development**  
-- 🏋️ Fitness enthusiast 💪  
-- 🌱 Currently learning: **Generative AI & Open Source Practices**  
+## About Me  
+- Pursuing **Mechanical Engineering**  
+- Interested in **Robotics, AI-powered utilities, Web Dev, DevOps, Cloud Technologies, and Open Source Software Development**    
+- Currently learning: **Generative AI & Open Source Practices**  
 
 ---
 
@@ -24,12 +23,12 @@
 
 ---
 
-## 🤝 Let's Connect!  
-- 📧 [Email](rohankumar.6143@gmail.com) 
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohankumar4510)   
-- 📝 [Blogs](https://your-portfolio-link.com)  
+## Let's Connect!  
+- [Email](rohankumar.6143@gmail.com) 
+- [LinkedIn](https://www.linkedin.com/in/rohankumar4510)   
+- [Blogs](https://your-portfolio-link.com)  
 
 ---
 
-⭐️ *“I believe every problem has a solution. With persistence and continuous learning, we can always find a way forward while expanding our knowledge base.”*
+*“I believe every problem has a solution. With persistence and continuous learning, we can always find a way forward while expanding our knowledge base.”*
 
